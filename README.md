@@ -1,5 +1,4 @@
 # semana_js_expert_2021
 
-Four days of advanced javascript with Erick Wendel.
-
-Day 01 -> We created a chat like WeChat app.
+## Four days of advanced javascript with Erick Wendel.
+## The main project in this week is to create a chat app like WeChat.
